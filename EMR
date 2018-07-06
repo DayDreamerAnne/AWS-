@@ -1,0 +1,7 @@
+Push user spark application to EMR
+1. Create Clutster: 
+   Using aws emr cli or aws console
+2. Add steps & : 
+  aws emr add-steps
+  aws console
+3. 
